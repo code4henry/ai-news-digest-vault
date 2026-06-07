@@ -2,10 +2,11 @@
 
 Daily AI news digests, automatically collected and archived.
 
-## Latest: [2026-06-06](2026/2026-06-06/ai-news-briefing.md)
+## Latest: [2026-06-07](2026/2026-06-07/ai-news-briefing.md)
 
 | Date | Sources | Articles | Briefing |
 |------|---------|----------|----------|
+| 2026-06-07 | 14 | 1,109 | [📋 阅读](2026/2026-06-07/ai-news-briefing.md) |
 | 2026-06-06 | 14 | 1,109 | [📋 阅读](2026/2026-06-06/ai-news-briefing.md) |
 | 2026-06-05 | 16 | 1,108 | [📋 阅读](2026/2026-06-05/ai-news-briefing.md) |
 
